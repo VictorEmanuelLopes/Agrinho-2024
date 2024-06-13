@@ -2,14 +2,12 @@ body{
 
 background-color: rgb(0, 0, 0);
 
-#09{
-    color: blue;}
+}
 
+header{
 
-
-
-
-
+display: flex;
+background-color: azure;
 
 
 }
