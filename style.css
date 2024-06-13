@@ -16,3 +16,14 @@ background-color: rgb(165, 193, 193);
 padding: 40px;
 
 }
+
+.cabecalho_menuitem{
+
+display: inline;
+text-transform: uppercase;
+margin-left: 40px;
+
+
+
+
+}
