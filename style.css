@@ -2,12 +2,21 @@ body{
 
 background-color: rgb(0, 0, 0);
 
+
+
+
+
+
+
+
+
+
 }
 
 header{
 
 display: flex;
-background-color: azure;
-
+background-color: rgb(142, 241, 241);
+justify-content: space-between;
 
 }
