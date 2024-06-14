@@ -32,5 +32,11 @@ margin-left: 40px;
 
 width:240px ;
 height:240px ;
- border-radius:30% ;
+border-radius: 25%;
+    }
+
+    footer{
+padding: 35%;
+background-color: rgb(165, 193, 193);
+display: flex;
     }
