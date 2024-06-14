@@ -46,7 +46,7 @@ section{
 section{
 
 
-   
+
 }
 
 
@@ -54,7 +54,8 @@ section{
 
 
     footer{
-padding: 35%;
+padding: 35px;
 background-color: rgb(165, 193, 193);
-
+display: inline;
+justify-content: space-around;
     }
