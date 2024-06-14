@@ -1,6 +1,6 @@
 body{
 
-background-color: rgb(128, 108, 108);
+background-color: rgb(153, 147, 147);
 
 
 
@@ -12,7 +12,7 @@ header{
 
 display: flex;
 justify-content: space-between;
-background-color: rgb(165, 193, 193);
+background-color: rgb(140, 221, 221);
 padding: 40px;
 
 }
