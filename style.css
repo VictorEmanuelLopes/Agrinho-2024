@@ -20,7 +20,7 @@ padding: 140px;
 }
 
 .cabecalho-menu-listaitem{
-    color: brownl;
+    color:green;
     display: inline;
     text-transform: uppercase;
     margin: 40px;
@@ -50,7 +50,7 @@ align-items: center;
     text-align: center;
 }
 .elementos__imagem{
-    width: 180px;
-    height: 180px;
+    width: 270px;
+    height: 270px;
     border-radius: 10px;
 }
