@@ -50,7 +50,7 @@ align-items: center;
     text-align: center;
 }
 .elementos__imagem{
-    width: 290px;
-    height: 290px;
-    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+    border-radius: 60px;
 }
