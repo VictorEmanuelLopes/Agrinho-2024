@@ -1,6 +1,6 @@
 body{
-
-    background-color: rgb(192, 235, 208);
+color: rgb(251, 252, 255);
+background-color: rgb(6, 6, 6);
 
 }
 
@@ -54,3 +54,4 @@ align-items: center;
     height: 320px;
     border-radius: 60px;
 }
+
