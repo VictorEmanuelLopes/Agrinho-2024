@@ -1,6 +1,6 @@
 body{
 color: rgb(251, 252, 255);
-background-color: rgb(251, 252, 255);
+background-color: rgb(0, 0, 0);
 
 }
 
@@ -8,7 +8,7 @@ background-color: rgb(251, 252, 255);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: rgb(204, 154, 214);
+    background-color: rgb(254, 255, 255);
 }
 
 .cabecalho-imagem{
